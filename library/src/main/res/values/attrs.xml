@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="EasyRoundImageView" >
+        <attr name="hasLeftTop" format="boolean" />
+        <attr name="hasRightTop" format="boolean" />
+        <attr name="hasLeftBottom" format="boolean" />
+        <attr name="hasRightBottom" format="boolean" />
+        <attr name="radius" format="dimension|reference" />
+    </declare-styleable>
+</resources>
