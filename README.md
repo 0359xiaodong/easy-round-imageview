@@ -1,5 +1,7 @@
 #easy-round-imageview
-This is a extension library of  ImageView,you can turn any angle of rectangle into circular. it is also a circular ImageView
+This is a extension library of  ImageView,you can turn any angle of rectangle into circular. 
+
+it is also a circular ImageView
 
 ![easy-round-imageview](Screenshot_2015-08-26-10-58-10.png)
 ![easy-round-imageview](Screenshot_2015-08-26-13-38-22.png)
