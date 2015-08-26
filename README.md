@@ -1,11 +1,10 @@
 #easy-round-imageview
------------
 This is a ImageView extension library, you can specify any corner is round, or it can be a circular ImageView
 
 ![easy-round-imageview](Screenshot_2015-08-26-10-58-10.png)
+![easy-round-imageview](Screenshot_2015-08-26-13-38-22.png)
 
 ##Gradle
------------
 ```
 dependencies {
     //...
@@ -36,7 +35,6 @@ dependencies {
 More usage please see the demo code.
 
 ##License
----------
 ```
    Copyright 2015 hongtianu
 
