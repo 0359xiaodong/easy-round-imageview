@@ -1,7 +1,8 @@
 #easy-round-imageview
 This is a ImageView extension library, you can specify any corner is round, or it can be a circular ImageView
 
-![easy-round-imageview](Screenshot_2015-08-26-10-58-10.png =360)![easy-round-imageview](Screenshot_2015-08-26-13-38-22.png =360)
+![easy-round-imageview](Screenshot_2015-08-26-10-58-10.png)
+![easy-round-imageview](Screenshot_2015-08-26-13-38-22.png)
 
 ##Gradle
 ```
